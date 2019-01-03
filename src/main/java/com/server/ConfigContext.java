@@ -61,11 +61,4 @@ public class ConfigContext {
         }
 
     }
-
-    // @Bean(name = "SpringContextHolder")
-    // public SpringContextHolder springContextHolder() {
-    // return new SpringContextHolder();
-    //
-    // }
-
 }
